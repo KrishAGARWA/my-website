@@ -1,0 +1,28 @@
+
+h1{
+    color:#ff0000
+}
+.headers{
+display:flex;
+justify-content:center
+
+}
+
+.footers{
+display:flex;
+justify-content:center;
+padding:30px;
+margin:100px
+
+}
+
+
+body{
+    background-color:#ffff3d;
+    margin:10px
+}
+
+.item img{
+    border:2px solid #000000;
+    border-radius:100px
+}
